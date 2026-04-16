@@ -1,4 +1,4 @@
-# 💫 Harrison Yeboah
+# 💫 Harrison K Yeboah
 👨🏾‍💻 About Me<br>I’m a Ghanaian American Sophomore Computer Science student from Chicago, IL passionate about building scalable software systems at the intersection of Finance and Technology. My experiences and certifications have exposed me to Full-Stack Web Development, Data Engineering, AI Engineering, and Machine Learning.<br><br>💻 Aspirations <br>Full Stack and Backend Engineer <br><br>⚙️ Projects Worked On<br>AI classification data pipeline (Python, Open AI, ChromaDB)<br>Limo Booking Full Stack Application (Javascript, React, Node.js, Supabase, Docker)<br>Finifications: Full Stack Finance Personal Project (JavaScript, React, Node.js, Prisma, Redis)<br>Machine Learning Facial Recognition: Siamese Neural Network (Python, Pandas, NumPy, TensorFlow)<br><br>🧠 Currently Learning<br>Backend Banking Systems Design<br>Data Engineering ETL Pipelines <br>Microservices<br>
 
 
