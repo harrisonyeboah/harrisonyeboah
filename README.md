@@ -1,6 +1,13 @@
 # 💫 Harrison K Yeboah
 👨🏾‍💻 About Me<br>I’m a Ghanaian American Sophomore Computer Science student from Chicago, IL passionate about building scalable software systems at the intersection of Finance and Technology. My experiences and certifications have exposed me to Full-Stack Web Development, Data Engineering, AI Engineering, and Machine Learning.<br><br>💻 Aspirations <br>Full Stack and Backend Engineer <br><br>⚙️ Projects Worked On<br>AI classification Full Stack Desktop Application (TypeScript, React, Python, Fast API, Pandas, Open AI, ChromaDB, SQLLite)<br>Limo Booking Full Stack Application (Javascript, React, Node.js, Supabase, Docker)<br>Finifications: Full Stack Finance Personal Project (JavaScript, React, Node.js, Prisma, Redis)<br>Machine Learning Facial Recognition: Siamese Neural Network (Python, Pandas, NumPy, TensorFlow)<br><br>🧠 Currently Learning<br>Backend Banking Systems Design<br>Data Engineering ETL Pipelines <br>Microservices<br>
 
+# Experiences 
+#### Software Engineer Intern - JPMorganChase 
+#### AI / Data Engineer - Denison Consulting
+#### FinTech Scholar - Greenwood Project
+#### Software Developer - ULimo 
+#### Anderson Summer Research Scholar - Denison University
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harrisonyeboah) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harrisonyeboahcs@gmail.com) 
